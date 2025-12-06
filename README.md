@@ -1,4 +1,4 @@
-# Fire Alarm & VGA-Based Display System
+# VGA-Based Alert system
 
 ## Project Overview
 A VHDL-based fire safety system that displays fire/flood alerts on VGA monitor and controls LED patterns via UART commands. 
